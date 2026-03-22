@@ -1,4 +1,4 @@
-import random
+import random #imports the random module in py
 
 def get_starting_balance():
     """
