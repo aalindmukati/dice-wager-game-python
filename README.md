@@ -24,7 +24,7 @@ This project demonstrates **Python fundamentals**, including functions, loops, e
 * **Python 3**
 * Python Standard Library:
 
-  * `random`
+* `random`
 
 ---
 
